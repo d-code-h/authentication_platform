@@ -1,0 +1,27 @@
+{
+  "name": "authentication_platform",
+  "version": "1.0.0",
+  "description": "A full scale authentication platform.",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d-code-h/authentication_platform.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/d-code-h/authentication_platform/issues"
+  },
+  "homepage": "https://github.com/d-code-h/authentication_platform#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
